@@ -1,0 +1,205 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+  
+}
+.header-1{
+  width: 80%;
+  margin: auto;
+  background: url('img/MoGo_FREE_Template_by_Laaqiq.jpg');
+  height: 720px;
+  width: 100%;
+background-position: center;
+  background-size: cover;
+
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style: none;
+}
+
+.nav-bar h1{
+  display: inline;
+  position: absolute;
+  padding: 30px;
+  padding-left: 200px;
+  color: whitesmoke;
+  
+}
+.nav-bar ul{
+  display: flex;
+ float: right;
+ padding-top: 30px;
+ padding-right: 150px;
+ 
+}
+.nav-bar a{
+  padding: 10px;
+  color:white;
+}
+.tamplate{
+  position: absolute;
+  font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Sansita Swashed', cursive;
+  left: 620px;
+  top: 245px;
+ color: #ffffff;
+}
+h2{
+  position: absolute;
+  font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Piazzolla', serif;
+font-family: 'Sansita Swashed', cursive;
+display: inline;
+  left: 37%;
+  position: relative;
+  top: 275px;
+  font-size: 90px;
+  color: #ffffff;
+}
+.hori{
+  position: relative;
+  top: 300px;
+  width: 70px;
+  left: 745px;
+}
+.learn-more{
+  position: absolute;
+  top: 550px;
+  left: 730px;
+  padding: 10px;
+  background-color: rgba(240, 231, 235, 0.788);
+  border-radius: 4px;
+}
+.mid{
+  height: 725px;
+  position: relative;
+  background-color:#ffffff;
+}
+.Story{
+text-align: center;
+font-size: 27px;
+font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+h5{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Sansita Swashed', cursive;
+padding: 20px;
+}
+.mid p {
+  text-align: center;
+  height: 100px;
+  width: 60%;
+  margin: auto;
+  padding-top: 70px;
+}
+.hori-2{
+  width: 70px;
+  position: relative;
+  
+  top: 20px;
+  left: 730px;
+  height: 2px;
+  background-color: orange;
+}
+.img-sec{
+  padding-left: 175px;
+  padding-top: 80px;
+
+}
+.details{
+  height: 725px;
+  width: 100%;
+  background-color: #ffffff;
+  box-sizing: border-box;
+  
+}
+.top{
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Baloo Tammudu 2', cursive;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Sansita Swashed', cursive;
+}
+.top-1{
+  text-align: center;
+  font-size: 30px;
+  padding: 25px;
+  font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+.hori-3{
+  width: 70px;
+ position: relative;
+ top: ;
+ left: 48%;
+ height: 1px;
+ background: orange;
+}
+.cards-1st{
+  width: 80%;
+  height: 35%;
+  margin: auto;
+  display: flex;
+  box-sizing: border-box;
+  padding: 30px;
+ 
+}
+.card-2nd{
+  width: 80%;
+  height: 35%;
+  margin: auto;
+  display: flex;
+  box-sizing: border-box;
+  padding: 30px;
+ 
+}
+h6{
+  font-size: 25px;
+  text-align: center;
+  padding: 10px;
+  
+}
+.cards-1st i{
+  padding-left: 165px;
+}
+.card-2nd i{
+  padding-left: 165px;
+}
+.card{
+  padding: 20px;
+  background-color: aliceblue;
+  overflow: hidden;
+
+}
+.demo{
+  height: 725px;
+  background: url("img/MoGo_FREE_Template_by_Laaqiq-bg.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.demo img{
+  position: relative;;
+  top: 18%;
+  left: 14%;
+
+}
+.demo h6{
+
+ display: inline;
+ float: right;
+ position: relative;
+ top: 44%;
+ right: 24%;
+ font-size: 30px;
+ font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Montserrat', sans-serif;
+}
